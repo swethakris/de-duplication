@@ -1,2 +1,2 @@
 # de-duplication
-Reports true number of members by finding the duplicates
+Reports unique members by finding the duplicates
